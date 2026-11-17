@@ -1,0 +1,9 @@
+# Cliente (React + Vite)
+node_modules/
+cliente/dist/
+cliente/.env
+
+# Servidor: el binario de PocketBase y su base de datos no se suben
+servidor/pocketbase
+servidor/pocketbase.exe
+servidor/pb_data/
